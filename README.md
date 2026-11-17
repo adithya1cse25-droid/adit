@@ -1,2 +1,1 @@
-# adit
-this is for program6
+exp6
